@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kanban_quicksell/static/css/main.9061f69f.css",
+    "main.js": "/kanban_quicksell/static/js/main.b3d000b9.js",
+    "static/js/453.f0f88b0d.chunk.js": "/kanban_quicksell/static/js/453.f0f88b0d.chunk.js",
+    "static/media/userimg.png": "/kanban_quicksell/static/media/userimg.00e35c675a5fa16a8496.png",
+    "static/media/low.png": "/kanban_quicksell/static/media/low.67403dde76c049034581.png",
+    "static/media/urgent.jpg": "/kanban_quicksell/static/media/urgent.e65e7cb757d0fdc93e2b.jpg",
+    "index.html": "/kanban_quicksell/index.html",
+    "main.9061f69f.css.map": "/kanban_quicksell/static/css/main.9061f69f.css.map",
+    "main.b3d000b9.js.map": "/kanban_quicksell/static/js/main.b3d000b9.js.map",
+    "453.f0f88b0d.chunk.js.map": "/kanban_quicksell/static/js/453.f0f88b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9061f69f.css",
+    "static/js/main.b3d000b9.js"
+  ]
+}
