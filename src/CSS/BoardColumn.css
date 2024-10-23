@@ -1,0 +1,48 @@
+.board-column {
+  /* display: flex; */
+  flex: 1;
+  background-color: rgb(223, 223, 231);
+  padding-top: 2px;
+  color: rgb(49, 47, 47);
+}
+.complete-heading{
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+.board-column h2{
+  margin-left: 10px;
+  margin-top: 15px;
+}
+.board-column .heading{
+  display: flex;
+  flex:1;
+  align-self: start;
+  margin-left: 10px;
+  align-items: center;
+}
+.board-column .imgage1{
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+}
+
+.board-column .imgage2{
+  height: 11px;
+  width: 11px;
+  padding: 5px;
+}
+
+.right-section {
+  margin-right: 20px;
+  float: right;
+}
+.circular-image {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.head-x{
+color: rgb(128, 119, 119);
+padding-left: 3px;
+}
